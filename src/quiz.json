@@ -1,44 +1,155 @@
 [
-	{
-		"question": "Answer 1.",
-		"answer": [
-			{
-				"number": 0.1,
-				"text": "Question 1 text for answer 1."
-			},
-			{
-				"number": 0.2,
-				"text": "Question 2 text for answer 1."
-			},
-			{
-				"number": 0.3,
-				"text": "Question 3 text for answer 1."
-			},
-			{
-				"number": 0.4,
-				"text": "Question 4 text for answer 1."
-			}
-		]
-	},
-	{
-		"question": "Answer 2.",
-		"answer": [
-			{
-				"number": 0.1,
-				"text": "Question 1 text for answer 2."
-			},
-			{
-				"number": 0.2,
-				"text": "Question 2 text for answer 2."
-			},
-			{
-				"number": 0.3,
-				"text": "Question 3 text for answer 2."
-			},
-			{
-				"number": 0.4,
-				"text": "Question 4 text for answer 2."
-			}
-		]
-	}
+    {
+        "question": "If you could have a conversation with any inanimate object, which one would you choose?",
+        "answer": [
+            {
+                "number": 0.3,
+                "text": "1) My trusty coffee mug, it's seen it all."
+            },
+            {
+                "number": 0.2,
+                "text": "2) A talking rubber duck for profound bath-time discussions."
+            },
+            {
+                "number": 0.1,
+                "text": "4) A potted plant, to hear tales of the great outdoors."
+            }
+        ]
+    },
+    {
+        "question": "If you were a flavor of ice cream, what would you be?",
+        "answer": [
+            {
+                "number": 0.2,
+                "text": "1) Serene Salted Caramel Sage."
+            },
+            {
+                "number": 0.3,
+                "text": "2) Playful Peanut Butter Ponder."
+            },
+            {
+                "number": 0.1,
+                "text": "3) Mysterious Marshmallow Mischief."
+            }
+        ]
+    },
+    {
+        "question": "If your pet could talk, what's the first question you'd ask them?",
+        "answer": [
+            {
+                "number": 0.2,
+                "text": "1) 'What's your opinion on the global catnip shortage?'"
+            },
+            {
+                "number": 0.3,
+                "text": "2) 'Are you secretly moonlighting as a superhero?'"
+            },
+            {
+                "number": 0.1,
+                "text": "3) 'Why do you insist on knocking things off shelves?'"
+            }
+        ]
+    },
+    {
+        "question": "If you could choose any historical figure to be your imaginary friend, who would it be?",
+        "answer": [
+            {
+                "number": 0.1,
+                "text": "1) Albert Einstein - for deep discussions about relativity."
+            },
+            {
+                "number": 0.2,
+                "text": "2) Cleopatra - for the ultimate shopping and spa day."
+            },
+            {
+                "number": 0.3,
+                "text": "3) Leonardo da Vinci - for brainstorming wild inventions."
+            }
+        ]
+    },
+    {
+        "question": "If you could swap lives with any fictional character for a day, who would it be?",
+        "answer": [
+            {
+                "number": 0.3,
+                "text": "1) Sherlock Holmes - to solve the mysteries of my missing socks."
+            },
+            {
+                "number": 0.1,
+                "text": "2) Harry Potter - for a magical commute to work."
+            },
+            {
+                "number": 0.2,
+                "text": "3) Wonder Woman - to effortlessly conquer the grocery store line."
+            }
+        ]
+    },
+    {
+        "question": "If you could only eat one food for the rest of your life, what would it be?",
+        "answer": [
+            {
+                "number": 0.2,
+                "text": "1) Pizza - the universal answer to all cravings."
+            },
+            {
+                "number": 0.1,
+                "text": "2) Tacos - because tacos make every day a fiesta."
+            },
+            {
+                "number": 0.3,
+                "text": "3) Ice cream - who needs a balanced diet anyway?"
+            }
+        ]
+    },
+    {
+        "question": "If you could time travel to any era, where would you go?",
+        "answer": [
+            {
+                "number": 0.1,
+                "text": "1) The future, to see if we finally have flying cars."
+            },
+            {
+                "number": 0.3,
+                "text": "2) The Renaissance, for artistic inspiration and elaborate costumes."
+            },
+            {
+                "number": 0.2,
+                "text": "3) Ancient Egypt, to hang out with cats and build pyramids."
+            }
+        ]
+    },
+    {
+        "question": "If you were a mythical creature, what would you be?",
+        "answer": [
+            {
+                "number": 0.3,
+                "text": "1) A graceful and elusive unicorn spreading magic."
+            },
+            {
+                "number": 0.2,
+                "text": "2) A friendly dragon who prefers tea over treasure."
+            },
+            {
+                "number": 0.1,
+                "text": "3) A sassy mermaid with a love for singing and seafood."
+            }
+        ]
+    },
+    {
+        "question": "If your life had a soundtrack, what song would play during your morning routine?",
+        "answer": [
+            {
+                "number": 0.1,
+                "text": "1) 'Eye of the Tiger' - for an epic start to the day."
+            },
+            {
+                "number": 0.2,
+                "text": "2) 'Don't Worry, Be Happy' - to set a cheerful tone."
+            },
+            {
+                "number": 0.3,
+                "text": "3) 'The Imperial March' - to embrace the drama of mornings."
+            }
+        ]
+    }
 ]
